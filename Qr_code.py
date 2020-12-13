@@ -1,4 +1,3 @@
-"Pour bdd https://python.developpez.com/cours/TutoSwinnen/?page=page_18#L16.1"
 import time
 import numpy as np
 from tkinter import *  # pour sauvegarder l'image
